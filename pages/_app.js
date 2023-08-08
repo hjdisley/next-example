@@ -4,7 +4,7 @@ import Head from 'next/head'
 import '../styles/main.css'
 
 export default function Nextra({ Component, pageProps }) {
-  //HELLO12345
+  //HELLO123456
   return (
     <>
       <Head>
